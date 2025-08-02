@@ -5,7 +5,7 @@ Here’s a professional, **customized `README.md`** for Sachin's **Python-ML-Pro
 ````markdown
 # 🧠 Python ML Project - Category Classifier
 
-Welcome to **Sachin's Machine Learning Project**! This repository contains a machine learning pipeline to perform category classification using Python, Jupyter Notebooks, and popular ML libraries like `scikit-learn`, `pandas`, and `matplotlib`.
+Welcome to ** Sachin's Machine Learning Project **! This repository contains a machine learning pipeline to perform category classification using Python, Jupyter Notebooks, and popular ML libraries like `scikit-learn`, `pandas`, and `matplotlib`.
 
 > 📌 **Project Status:** Actively maintained  
 > 👨‍💻 Made with ❤️ by [Sachin R](https://github.com/Sachin-R-star)
@@ -114,15 +114,3 @@ This project is licensed under the [MIT License](LICENSE) – free for personal 
 
 Pull requests are welcome! Feel free to raise an issue or open a PR if you'd like to improve anything.
 
-```
-
----
-
-### ✅ Next Steps (Optional)
-- Add a `requirements.txt` file with dependencies.
-- Add a `LICENSE` file (I can generate it for you).
-- Replace the screenshot URL with a real one.
-- Create a project banner (I can design one for you if needed).
-
-Let me know if you'd like those extras.
-```
